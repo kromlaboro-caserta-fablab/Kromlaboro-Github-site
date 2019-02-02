@@ -17,6 +17,6 @@ The Lab, embodying a nevralgic center of creative connections, looks at the exce
 
 ### [More info here](www.kromlaboro.it)
 
-## [Hello wordld](https://kromlaboro-caserta-fablab.github.io/Kromlaboro-Github-site/chi-siamo.md)
+## [Hello wordld](chi-siamo.md)
 
 
