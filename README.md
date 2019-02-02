@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to KromLabòro FabLab Github Site
 
-You can use the [editor on GitHub](https://github.com/kromlaboro-caserta-fablab/site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The KromLabòro FabLab is situated in Maddaloni at Via Roma,199, a Caserta province town.
+It is a place of social and professional sharing. Born from the initiative and determination of a group of makers holds an important record; it is the first FabLab located in Caserta Province. The KromLabòro, is conceived to be a training and promotional hub of Digital Craft. The co-working lab stands for the core of supply and demand in the training field. It promotes working connections enhancing conventional and innovative professional figures; KromLabòro means ,in Esperanto language, "After Hours, Overtime and Extraordinary" to highlight Its Makers values, such as : commitment, passion and devotion. The choice of esperanto language represents our inspiring values: equality and cooperation among people having passion for experimentation, new technologies, design and 3D printing; Our intention is promoting handicraft using material and objects translating it in a modern design conception thanks to technology and 3D printers, Laser Cutter, Vinyl Cutter and Graphics Software without forgetting the electronic applications, home automation and Arduino. The team gathers people experiencing different realities with a creative contamination.
+Student:
+Michele Turco is the Founder and Lab Manager, who already joined the “My Easy Card” team during the III edition of the Contamination Lab of Naples (University Start Up Accelerator).
+Professionals:
+Andrea Turco is the Co-Founders, Cristian Busico is the Web and Graphic Designer), and our partners:
+[NaStartUp](www.nastartup.it)
+[3D Fuel -3DOM Fuel](https://www.3dfuel.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our motto is "Make Other Made Elsewhere" that means we feel inclined to do something different ,in a different and such a good way . Kromlaboro FabLab is open to share ideas with schools, designers, architects, engineers, graphic designers, programmers and everyone is available and motivated to try this experience from every point of view;
 
-### Markdown
+Since our birth we have specialized in the search for innovative materials for 3D printing and their applications. Specialists in 3D printing of bioplastics based on Hemp, Beer, Coffee. The Founder, Michele Turco, FabAcademy sudent in 2016.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Lab, embodying a nevralgic center of creative connections, looks at the excellence of our territory , encourages trainers even experiencing new professions aiming to give value to the craftsmanship and to the know-how exchange looking ahead to a better future.
 
-```markdown
-Syntax highlighted code block
+[### More info here###](www.kromlaboro.it)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kromlaboro-caserta-fablab/site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
