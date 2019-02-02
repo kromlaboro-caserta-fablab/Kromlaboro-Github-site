@@ -15,6 +15,6 @@ Since our birth we have specialized in the search for innovative materials for 3
 
 The Lab, embodying a nevralgic center of creative connections, looks at the excellence of our territory , encourages trainers even experiencing new professions aiming to give value to the craftsmanship and to the know-how exchange looking ahead to a better future.
 
-[### More info here###](www.kromlaboro.it)
+### [More info here](www.kromlaboro.it)
 
 
